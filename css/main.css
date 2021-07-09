@@ -1,0 +1,39 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #fff1e8;
+}
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+#landing {
+  height: 100%;
+}
+
+#content {
+  height: 90%;
+}
+
+#content h1 {
+  margin: 0 0 0 0;
+}
+
+#links {
+  height: 10%;
+}
+/*# sourceMappingURL=main.css.map */
